@@ -3,7 +3,7 @@
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ReactJS ... -->
 
-<div style="display: flex">
+<div>
   <a href="https://github.com/AmauriLima">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmauriLima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriLima&layout=compact&langs_count=7&theme=tokyonight"/>
