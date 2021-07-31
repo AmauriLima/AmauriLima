@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning ReactJS ... -->
+<h2> Hi there 👋 <h2/>
 
 <div>
   <a href="https://github.com/AmauriLima">
