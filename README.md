@@ -28,5 +28,4 @@
     <a href="https://www.linkedin.com/in/amauri-lima/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto: amauri.plimaj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/AmauriLima/AmauriLima/blob/output/github-contribution-grid-snake.svg)
 </div>
