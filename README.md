@@ -3,7 +3,6 @@
 <div>
   <a href="https://github.com/AmauriLima">
   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=AmauriLima&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriLima&layout=compact&theme=tokyonight" />
 </div>
   
   ##
