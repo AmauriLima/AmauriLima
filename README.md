@@ -1,15 +1,12 @@
+## Welcome
+
 <h5 align="center">I've been working as a full stack developer since 2021, I started my career working with React, React Native and Node.JS.</h5>
 
-<h5 align="center">Now, I'm learning and working with Flutter to create mobile applications.</h5>
+<h5 align="center">Now, I'm working with Flutter to create mobile applications.</h5>
+
+<h5 align="center">Also, I'm learning about serverless architecture, and how to work with AWS using, API Gateway, Lambda Functions and DynamoDB.</h5>
  
 <h5 align="center">I really enjoy discovering and learning new things, not only in the technology area but also in everything that sparks my interest in the world of art and history..</h5>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amaurilima&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
- </div>
- 
- &nbsp;
- &nbsp;
 
 ## My Skills
 
@@ -30,6 +27,10 @@
 ## Main Stack on Backend
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+## Secondary Stack on Backend
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 So, if you wanna contact for some reason, below are my email for that:
 
